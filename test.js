@@ -1,4 +1,4 @@
-const domainjs = require('metisdomainjs');
+const domainjs = require('sysdomainjs');
 // set config
 const config = 
 {
